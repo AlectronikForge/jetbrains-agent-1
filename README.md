@@ -3,6 +3,8 @@
 https://www.jetbrains.com/idea/download/other.html
 
 https://www.jetbrains.com/phpstorm/download/other.html
+
+https://www.jetbrains.com/go/download/other.html
 ~~~
 
 # 安装参数
