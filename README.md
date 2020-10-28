@@ -1,6 +1,8 @@
 官网下载地址
 ~~~
 https://www.jetbrains.com/idea/download/other.html
+
+https://www.jetbrains.com/phpstorm/download/other.html
 ~~~
 
 # 安装参数
