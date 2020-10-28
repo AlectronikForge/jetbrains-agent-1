@@ -1,4 +1,4 @@
-下载地址
+官网下载地址
 ~~~
 https://www.jetbrains.com/idea/download/other.html
 ~~~
