@@ -1,15 +1,9 @@
-官网下载地址
+Downloads
 ~~~
-https://www.jetbrains.com/idea/download/other.html
-
-https://www.jetbrains.com/phpstorm/download/other.html
-
-https://www.jetbrains.com/go/download/other.html
-
-https://www.jetbrains.com/pycharm/download/other.html
+https://download-cf.jetbrains.com/rider/JetBrains.Rider-2020.2.4.tar.gz
 ~~~
 
-# 版本
+Works for
 ~~~
 
 IntelliJ IDEA 2020.2.3 
@@ -24,7 +18,7 @@ RubyMine 2020.2.3
 WebStorm 2020.2.3
 ~~~
 
-#  安装参数
+#  安装参数 <-- Means?
 ~~~
 Qr7EpuKzNtnTuEmGcLg/YnYyVEcnvR4iflCYTHc6dwuB8Jbx7e6E43CPRA+KjL2O/D/C+hj/rDFrwCNgGAvLcJd3bcaJ8UTMh8FPxd2EfjDt0eopoRIRQKtw8Ua3hlm2i+GvhYnaJ5/F1XN7H/8uEtYqFQlJc9auMxAL3gdnsmY
 ~~~
